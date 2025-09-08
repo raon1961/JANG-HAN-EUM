@@ -8,7 +8,7 @@ const members = [
       "images/eum3.jpeg", 
     ], 
     detailImg: "images/eump1.jpeg", 
-    bio: "추후 업데이트 예정" 
+    bio: "한음이가 생각한 한음이의 이미지는 보컬짱" 
   },
   { 
     id: 2, 
@@ -18,7 +18,7 @@ const members = [
       "images/eum5.jpeg"
     ], 
     detailImg: "images/eump2.jpeg", 
-    bio: "추후 업데이트 예정" 
+    bio: "한음이가 연습하며 생긴 습관은 행복하기" 
   },
   { 
     id: 3, 
@@ -29,7 +29,7 @@ const members = [
       "images/eum8.jpeg", 
     ], 
     detailImg: "images/eump3.jpeg", 
-    bio: "추후 업데이트 예정" 
+    bio: "한음이가 도전하고 싶은 무대 컨셉은 동양풍" 
   },
   { 
     id: 4, 
@@ -39,7 +39,7 @@ const members = [
       "images/eum10.jpeg"
     ], 
     detailImg: "images/eump4.jpeg", 
-    bio: "추후 업데이트 예정" 
+    bio: "한음이의 최대 강점은 보컬" 
   },
   { 
     id: 5, 
@@ -59,7 +59,7 @@ const members = [
       "images/eum14.jpeg"
     ], 
     detailImg: "images/eump6.jpeg", 
-    bio: "추후 업데이트 예정" 
+    bio: "과거 지원서 쓰던 한음이에게 한마디 잘 버티길." 
   },
   { 
     id: 7, 
@@ -70,7 +70,7 @@ const members = [
       "images/eum17.jpeg"
     ], 
     detailImg: "images/eump7.jpeg", 
-    bio: "추후 업데이트 예정" 
+    bio: "지금 한음이에게 힘이 되는 한마디는 얼마 안남았다!!" 
   },
   { 
     id: 8, 
@@ -80,7 +80,7 @@ const members = [
       "images/eum19.jpeg"
     ], 
     detailImg: "images/eump8.jpeg", 
-    bio: "추후 업데이트 예정" 
+    bio: "미래 파이널을 앞둔 한음이에게 한마디 기분이 어때?" 
   },
   { 
     id: 9, 
@@ -90,7 +90,7 @@ const members = [
       "images/eum21.jpeg"
     ], 
     detailImg: "images/eump9.jpeg", 
-    bio: "추후 업데이트 예정" 
+    bio: "제가 누구인지 확실히 보여드리겠습니다!" 
   }
 ];
 
