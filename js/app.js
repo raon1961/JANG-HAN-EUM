@@ -3,95 +3,94 @@ const members = [
     id: 1, 
     name: "WE WANT", 
     profileImgs: [
-      "images/liyu8.jpg", 
-      "images/liyu9.jpg", 
-      "images/liyu7.jpg"
+      "images/eum1.jpeg", 
+      "images/eum2.jpeg", 
+      "images/eum3.jpeg", 
     ], 
-    detailImg: "images/liyu-pro1.gif", 
-    bio: "립우가 생각한 립우의 이미지는 차갑게 생긴 바보." 
+    detailImg: "images/eump1.jpeg", 
+    bio: "추후 업데이트 예정" 
   },
   { 
     id: 2, 
-    name: "CHUEI LI YU'S", 
+    name: "JANG HAN EUM'S", 
     profileImgs: [
-      "images/liyu51.jpg", 
-      "images/liyu50.jpg", 
-      "images/liyu49.jpg"
+      "images/eum4.jpeg", 
+      "images/eum5.jpeg"
     ], 
-    detailImg: "images/liyu-pro2.jpg", 
-    bio: "립우가 연습하며 생긴 습관은 정신 나가며 몸 움직이기." 
+    detailImg: "images/eump2.jpeg", 
+    bio: "추후 업데이트 예정" 
   },
   { 
     id: 3, 
     name: "DEBUT", 
     profileImgs: [
-      "images/liyu40.jpg", 
-      "images/liyu39.jpg"
+      "images/eum6.jpeg", 
+      "images/eum7.jpeg",
+      "images/eum8.jpeg", 
     ], 
-    detailImg: "images/liyu-pro10.jpg", 
-    bio: "립우가 도전하고 싶은 무대 컨셉은 뭐든지!" 
+    detailImg: "images/eump3.jpeg", 
+    bio: "추후 업데이트 예정" 
   },
   { 
     id: 4, 
-    name: "崔立于", 
+    name: "張瀚音", 
     profileImgs: [
-      "images/liyu63.jpg", 
-      "images/liyu64.jpg"
+      "images/eum9.jpeg", 
+      "images/eum10.jpeg"
     ], 
-    detailImg: "images/liyu-pro4.jpg", 
-    bio: "립우의 최대 강점은 얼굴!" 
+    detailImg: "images/eump4.jpeg", 
+    bio: "추후 업데이트 예정" 
   },
   { 
     id: 5, 
-    name: "최립우", 
+    name: "장한음", 
     profileImgs: [
-      "images/liyu35.jpg", 
-      "images/liyu34.jpg"
+      "images/eum11.jpeg", 
+      "images/eum12.jpeg"
     ], 
-    detailImg: "images/liyu-pro5.jpg", 
-    bio: "BOYS II PLANET에서 슈퍼스타가 될 첫 STEP을 내딛겠습니다!" 
+    detailImg: "images/eump5.jpeg", 
+    bio: "완벽해질 때까지 끝없이 노력하여 결과로 보여드리겠습니다." 
   },
   { 
     id: 6, 
-    name: "CHUEI LI YU", 
+    name: "JANG HAN EUM", 
     profileImgs: [
-      "images/liyu22.jpg", 
-      "images/liyu23.jpg",
-      "images/liyu24.jpg"
+      "images/eum13.jpeg", 
+      "images/eum14.jpeg"
     ], 
-    detailImg: "images/liyu-pro6.jpg", 
-    bio: "과거 지원서 쓰던 립우에게 한마디 잘 될거니까 그냥 하자!" 
+    detailImg: "images/eump6.jpeg", 
+    bio: "추후 업데이트 예정" 
   },
   { 
     id: 7, 
-    name: "#순간콜렉터", 
+    name: "#8등신 사슴", 
     profileImgs: [
-      "images/liyu60.jpg", 
-      "images/liyu61.jpg",
-      "images/liyu62.jpg"
+      "images/eum15.jpeg", 
+      "images/eum16.jpeg", 
+      "images/eum17.jpeg"
     ], 
-    detailImg: "images/liyu-pro7.jpg", 
-    bio: "지금 립우에게 힘이 되는 한마디는 잘 하고 있어 걱정마!" 
+    detailImg: "images/eump7.jpeg", 
+    bio: "추후 업데이트 예정" 
   },
   { 
     id: 8, 
-    name: "#미대오빠", 
+    name: "#노래짱한음", 
     profileImgs: [
-      "images/liyu31.jpg", 
-      "images/liyu30.jpg"
+      "images/eum18.jpeg", 
+      "images/eum19.jpeg"
     ], 
-    detailImg: "images/liyu-pro8.jpg", 
-    bio: "미래 파이널을 앞둔 립우에게 한마디 이번에도 잘 할 수 있어!" 
+    detailImg: "images/eump8.jpeg", 
+    bio: "추후 업데이트 예정" 
   },
   { 
     id: 9, 
-    name: "#버니립우", 
+    name: "#AI 비주얼 ㅎ", 
     profileImgs: [
-      "images/liyu58.jpg", 
-      "images/liyu59.jpg"
+      "images/eum20.jpeg", 
+      "images/eum21.jpeg"
     ], 
-    detailImg: "images/liyu-pro9.GIF", 
-    bio: "베스트 초이스 리부초이 놓치지 마세요!" 
+    detailImg: "images/eump9.jpeg", 
+    bio: "추후 업데이트 예정" 
   }
 ];
 
